@@ -1,0 +1,54 @@
+#logo {
+    
+        font-family: "Vibur", cursive;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+}
+
+.textonimage {
+        position: absolute;
+        width: 100%;
+        text-align: center;
+        top: 30%;
+        color: red;
+        font-size: 40px;
+        padding-right: 80;
+
+}
+
+#toprow {
+        position: center;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 190px;
+        background:#520120;
+
+}
+
+#bottomrow {
+        
+        padding-bottom: 20px;
+        padding-left: 190px;
+        background:#520120;
+
+}
+
+#locatus {
+        background: #962B09;
+        height: 300px;
+        
+}
+#map {
+        height: 250px;
+}
+
+#red {
+
+        background:#520120;
+}
+
+  
+
+
